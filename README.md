@@ -14,6 +14,7 @@ I am also a professional freelance video editor of 5 years and I'm also really i
 - **[Semantic News Classifier]**: A Java-based classifier using NLP to group news articles.
 - **[Moodify]**: A real-time weather and music recommendation app built with React and Node.js.
 - **[Sorting Algorithm Visualiser](https://github.com/yousefabukar/Sorting-Algorithm-Visualiser)**: A project for visualizing different sorting algorithms using Python.
+- **[Early Onset Heart Disease Predictor](https://github.com/yousefabukar/heart-disease-predictor)**: A Python-based machine learning model using logistic regression to assess heart disease risk from patient data displayed using React and TypeScript
 
 ## Currently Learning
 - Systems Programming using C
