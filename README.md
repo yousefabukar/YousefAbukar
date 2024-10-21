@@ -15,6 +15,7 @@ I am also a professional freelance video editor of 5 years and I'm also really i
 - **[Early Onset Heart Disease Predictor](https://github.com/yousefabukar/heart-disease-predictor)**: A Python-based machine learning model using logistic regression to assess heart disease risk from patient data displayed using React and TypeScript
 - **[Moodify]**: A real-time weather and music recommendation app built with React and Node.js.
 - **[Semantic News Classifier](https://github.com/yousefabukar/semantic-news-classifier)**: A Java-based classifier using NLP to group news articles.
+- And More...
 
 ## Currently Learning
 - Systems Programming using C
