@@ -18,8 +18,8 @@ I am also a professional freelance video editor of 5 years and I'm also really i
 - And More...
 
 ## Currently Learning
-- Systems Programming using C
-- Functional Programming (Haskell)
+- C/C++
+- Haskell
 
 ## Get in Touch
 - LinkedIn: (https://www.linkedin.com/in/yousef-abukar)
