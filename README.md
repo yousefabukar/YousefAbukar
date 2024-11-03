@@ -7,7 +7,7 @@ I am also a professional freelance video editor of 5 years and I'm also really i
 ## Technologies & Tools
 - Programming Languages: Java, Python, JavaScript, C
 - Web Development: React, Node.js, Express.js
-- Databases: PostgreSQL
+- Databases: PostgreSQL, MySQL
 - Tools: Git
 
 ## Projects
