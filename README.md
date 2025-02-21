@@ -18,7 +18,7 @@ I am also a professional freelance video editor of 5 years and I'm also really i
 - And More...
 
 ## Currently Learning
-- C/C++
+- C++
 
 ## Get in Touch
 - LinkedIn: (https://www.linkedin.com/in/yousef-abukar)
