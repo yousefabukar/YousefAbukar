@@ -1,8 +1,8 @@
 # Hi I'm Yousef!
 
 ## About Me
-I am a final year AI and Computer Science student at the University of Birmingham. I'm passionate about distributed systems and previously worked as a backend engineer at GE Aerospace.
-I am also a professional freelance video editor of 6 years and love all things photography, film and literature.
+- I am a final year AI and Computer Science student at the University of Birmingham. I'm passionate about distributed systems and previously worked as a backend engineer at GE Aerospace.
+- I am also a professional freelance video editor of 6 years and love all things photography, film and literature.
 
 ## Projects
 - **[Veritas](https://github.com/m7anj/veritas)**: A hackathon-winning project that cryptographically verifies the authenticity of images using hardware, built with Rust and TS.
